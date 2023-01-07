@@ -1,0 +1,156 @@
+.box {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.counterSettingBox {
+    background-color: #43c49f;
+    height: 175px;
+    width: 200px;
+    margin: 2px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.counterBox {
+    background-color: #43c49f;
+    height: 175px;
+    width: 200px;
+    margin: 2px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.textarea {
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #61dafb;
+    width: 170px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textarealimd {
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+
+    font-size: 20px;
+    background-color: #c4717b;
+    width: 170px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonsBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.textareaBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 4px;
+
+}
+
+
+.buttonplus {
+    border-radius: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #61dafb;
+    width: 80px;
+    height: 40px;
+    align-self: center;
+}
+
+.buttonplusd {
+    margin: 5px;
+    border-radius: 5px;
+    background-color: red;
+
+}
+
+.buttonreset {
+    border-radius: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #61dafb;
+    width: 100px;
+    height: 60px;
+    align-self: center;
+}
+
+.settigsBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.buttonsBox2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 4px;
+}
+
+.minInput {
+    width: 60px;
+    background-color: #61dafb;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.minInputA {
+    width: 60px;
+    background-color: #c4717b;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.maxInput {
+    width: 60px;
+    background-color: #61dafb;
+    margin: 5px;
+    border-radius: 5px;
+}
+.maxInputA {
+    width: 60px;
+    background-color: #c4717b;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.setButtotClass {
+    border-radius: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #61dafb;
+    width: 100px;
+    height: 60px;
+    align-self: center;
+}
